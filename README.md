@@ -1,4 +1,3 @@
-# XL-1-Wandanputra.github.io
 <!DOCTYPE html>
 <html lang="id">
 <head>
